@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8928b7b6f71d1d244a3e589422dc41a5, type: 3}
+  m_Name: SteamVR_Input_ActionSet_CalebDemoActions_In
+  m_EditorClassIdentifier: 
+  actionSet: {fileID: 0}
+  listDirection: 0
+  actions:
+  - {fileID: 11400000, guid: 233d1cc212784a1418b968cf039ad6c9, type: 2}
+  - {fileID: 11400000, guid: ea16504ef7b38444cbf7706c5ffeb75f, type: 2}
+  - {fileID: 11400000, guid: 82bc4022353960f4d9016edf880bbb5c, type: 2}
+  - {fileID: 11400000, guid: 39d5257754fb98e42b38d7e6312adb64, type: 2}
+  - {fileID: 11400000, guid: 9b12a3e35a6f26f4bac8ee7473e3373e, type: 2}
+  Shoot: {fileID: 11400000, guid: 233d1cc212784a1418b968cf039ad6c9, type: 2}
+  Pose: {fileID: 11400000, guid: ea16504ef7b38444cbf7706c5ffeb75f, type: 2}
+  SkeletonRightHand: {fileID: 11400000, guid: 82bc4022353960f4d9016edf880bbb5c, type: 2}
+  SkeletonLeftHand: {fileID: 11400000, guid: 39d5257754fb98e42b38d7e6312adb64, type: 2}
+  OpenMenu: {fileID: 11400000, guid: 9b12a3e35a6f26f4bac8ee7473e3373e, type: 2}

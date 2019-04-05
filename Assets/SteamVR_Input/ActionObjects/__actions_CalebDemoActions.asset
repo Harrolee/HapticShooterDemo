@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0603704865cb504488bea0b6912f5e38, type: 3}
+  m_Name: __actions_CalebDemoActions
+  m_EditorClassIdentifier: 
+  allActions:
+  - {fileID: 11400000, guid: 233d1cc212784a1418b968cf039ad6c9, type: 2}
+  - {fileID: 11400000, guid: ea16504ef7b38444cbf7706c5ffeb75f, type: 2}
+  - {fileID: 11400000, guid: 82bc4022353960f4d9016edf880bbb5c, type: 2}
+  - {fileID: 11400000, guid: 39d5257754fb98e42b38d7e6312adb64, type: 2}
+  - {fileID: 11400000, guid: 9b12a3e35a6f26f4bac8ee7473e3373e, type: 2}
+  nonVisualInActions:
+  - {fileID: 11400000, guid: 233d1cc212784a1418b968cf039ad6c9, type: 2}
+  - {fileID: 11400000, guid: 9b12a3e35a6f26f4bac8ee7473e3373e, type: 2}
+  visualActions:
+  - {fileID: 11400000, guid: ea16504ef7b38444cbf7706c5ffeb75f, type: 2}
+  - {fileID: 11400000, guid: 82bc4022353960f4d9016edf880bbb5c, type: 2}
+  - {fileID: 11400000, guid: 39d5257754fb98e42b38d7e6312adb64, type: 2}
+  poseActions:
+  - {fileID: 11400000, guid: ea16504ef7b38444cbf7706c5ffeb75f, type: 2}
+  - {fileID: 11400000, guid: 82bc4022353960f4d9016edf880bbb5c, type: 2}
+  - {fileID: 11400000, guid: 39d5257754fb98e42b38d7e6312adb64, type: 2}
+  skeletonActions:
+  - {fileID: 11400000, guid: 82bc4022353960f4d9016edf880bbb5c, type: 2}
+  - {fileID: 11400000, guid: 39d5257754fb98e42b38d7e6312adb64, type: 2}
+  outActionArray: []
+  fullPath: /actions/CalebDemoActions
+  usage: single
+  inActions: {fileID: 11400000, guid: 67e4b1dd664274047b158f91fba07df9, type: 2}
